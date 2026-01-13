@@ -1,2 +1,104 @@
 # 100DaysOfCode
 100 Python Projects
+
+- [x] Day1. Working with Variables in Python to Manage Data
+- [x] Day2. Understanding Data Types and How to Manipulate Strings
+- [x] Day3. Control Flow and Logic Operators
+- [x] Day4. Randomisation and Python Lists
+- [x] Day5. Python Loops
+- [x] Day6. Python Functions & Karel
+- [x] Day7. Hangman
+- [x] Day8. Function Parameters & Caesar Cipher
+- [x] Day9. Dictionaries, Nesting and Secret Auction
+- [x] Day10. Functions with Outputs
+- [x] Day11. The Blackjack Capstone Project
+- [x] Day12. Scope & Number Guessing Game
+- [x] Day13. Debugging: How to Find and Fix Errors in your Code
+- [x] Day14. Higher Lower Games Project
+- [x] Day15. Local Development Environment Setup & the Coffee Machine
+- [x] Day16. Object Oriented Programming(OOP)
+- [x] Day17. The Quiz Project & the Benefits of OOP
+- [x] Day18. Turtle & the Graphical User Interface(GUI)
+- [x] Day19. Instances, State and Higher Order Functions
+- [x] Day20. Build the Snake Game Part1: Animation & Coordnates
+- [x] Day21. Build the Snake Game Part2: Inheritance & List Slicing
+- [x] Day22. Build Pong: The Famous Arcade Game
+- [x] Day23. The Turtle Crossing Capstone Project
+- [x] Day24. Files, Directories and Paths
+- [x] Day25. Working with CSV Data and the Pandas Library
+- [x] Day26. List Comprehension and NATO Alphabet
+- [x] Day27. Tkinter, *args, **kwargs and Creating GUI programs
+- [x] Day28. Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [ ] Day29. Building a Passworld Manager GUI app with Tkinter
+- [ ] Day30. Errors, Exceptions and JSON Data: Improving the Password
+- [ ] Day31. Flash Card App Capstone Project
+- [ ] Day32. Send Email(smtplib) & Manage Dates(datetime)
+- [ ] Day33. API Endppoints & API Parameters - ISS Overhead Notifier
+- [ ] Day34. API Practice - Creating a GUI Quiz App
+- [ ] Day35. Keys, Authentication & Environment Variables: Send SMS
+- [ ] Day36. Stock Trading News Alert Project
+- [ ] Day37. Habit Tracking Project: API Post Requests & Headers
+- [ ] Day38. Workout Tracking Using Google Sheets
+- [ ] Day39. Capstone Part1: Flight Deal Finder
+- [ ] Day40. Capstone Part2: Flight Club
+- [ ] Day41. Web Foundation - Introduction to HTML
+- [ ] Day42. Web Foundation - Intermediate HTML
+- [ ] Day43. Web Foundation - Introduction to CSS
+- [ ] Day44. Web Foundation - Intermediate CSS
+- [ ] Day45. Web Scraping with Beautiful Soup
+- [ ] Day46. Create a Spotify Playlist using the Musical Time Machine
+- [ ] Day47. Create an Automated Amazon Price Tracker
+- [ ] Day48. Selenium Webdriver Browser and Game Playing Bot
+- [ ] Day49. Automating Your Exercise Routine at the Gym
+- [ ] Day50. Auto Tinder Swiping Bot
+- [ ] Day51. Internet Speed Twitter Comlaint Bot
+- [ ] Day52. Instagram Follower Bot
+- [ ] Day53. Web Scraping Capstone - Data Entry Job Automation
+- [ ] Day54. Introduction to Web Development with Flask
+- [ ] Day55. HTML & URL Parsing in Flask and the Higher Lower Game
+- [ ] Day56. Rendering HTML/Static files and Using Website Tempaltes
+- [ ] Day57. Templating with Jinja in Flask Applications
+- [ ] Day58. Web Foundation Bootstrap
+- [ ] Day59. Blog Capstone Project Part2 - Adding Styling
+- [ ] Day60. Make POST Requests with Flask and HTML Forms
+- [ ] Day61. Building Advanced Forms with Flask-WTForms
+- [ ] Day62. Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+- [ ] Day63. Databases with SQLite and SQLAlchemy
+- [ ] Day64. My Top 10 Movies Website
+- [ ] Day65. Web Design School - How to Create a Website that People will Love
+- [ ] Day66. Building Your Own API with RESTful Routine
+- [ ] Day67. Blog Capstone Project Part3 - RESTful Routing
+- [ ] Day68. Authentication with Flask
+- [ ] Day69. Blog Capstone Project Part4 - Adding Users
+- [ ] Day70. Git, Github and Version Control
+- [ ] Day71. Deploying Your Web Application
+- [ ] Day72. Data Exploration with Pandas: College Major v.s. Your Salary
+- [ ] Day73. Data Visualisation with Matplotlib: Programming Languages
+- [ ] Day74. Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+- [ ] Day75. Google Trends Data: Resampling and Visualising Time Series
+- [ ] Day76. Beautiful Plotly Charts & Analysing the Android App Store
+- [ ] Day77. Computation with NumPy and N-Dimensional Arrays
+- [ ] Day78. Linear Regression and Data Visualisation with Seaborn
+- [ ] Day79. Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+- [ ] Day80. The Tragic Discovery of Handwashing: t-Tests & Distributions
+- [ ] Day81. Capstone Project - Predict House Prices
+- [ ] Day82. Professional Portfolio Project - [Python Scripting]
+- [ ] Day83. Professional Portfolio Project - [Python Web Development]
+- [ ] Day84. Professional Portfolio Project - [Python Scripting]
+- [ ] Day85. Professional Portfolio Project - [GUI]
+- [ ] Day86. Professional Portfolio Project - [GUI]
+- [ ] Day87. Professional Portfolio Project - [Game]
+- [ ] Day88. Professional Portfolio Project - [Web Development]
+- [ ] Day89. Professional Portfolio Project - [Web Development]
+- [ ] Day90. Professional Portfolio Project - [GUI Desktop App]
+- [ ] Day91. Professional Portfolio Project - [HTTP Requests & APIs]
+- [ ] Day92. Professional Portfolio Project - [Image Processing & Data Science]
+- [ ] Day93. Professional Portfolio Project - [Web Scraping]
+- [ ] Day94. Professional Portfolio Project - [GUI Automatiom]
+- [ ] Day95. Professional Portfolio Project - [Game]
+- [ ] Day96. Professional Portfolio Project - [HTTP Requests & APIs]
+- [ ] Day97. Professional Portfolio Project - [Web Development]
+- [ ] Day98. Professional Portfolio Project - [Python Automation]
+- [ ] Day99. Professional Portfolio Project - [Data Science]
+- [ ] Day100. Professional Portfolio Project - [Data Science]
+
